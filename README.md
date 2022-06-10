@@ -1,6 +1,6 @@
 # Disaster-Response-Pipelines
 
-# Link to the classifier.pickel file: https://drive.google.com/file/d/1GHmwZ7QuvfZO2sSsK0cPhVpazTyQEw8E/view?usp=sharing
+Link to the classifier.pickel file: https://drive.google.com/file/d/1GHmwZ7QuvfZO2sSsK0cPhVpazTyQEw8E/view?usp=sharing
 
 # ETL Pipeline
 The first part of your data pipeline is the Extract, Transform, and Load process. 
